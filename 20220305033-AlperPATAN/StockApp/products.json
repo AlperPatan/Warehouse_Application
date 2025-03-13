@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "Vito",
+    "Quantity": 20,
+    "Brand": "Gig"
+  },
+  {
+    "Id": 4,
+    "Name": "C360",
+    "Quantity": 250,
+    "Brand": "MSI"
+  },
+  {
+    "Id": 6,
+    "Name": "London",
+    "Quantity": 1,
+    "Brand": "UK"
+  },
+  {
+    "Id": 7,
+    "Name": "Yasmin",
+    "Quantity": 22,
+    "Brand": "SUZUKI"
+  },
+  {
+    "Id": 2,
+    "Name": "RTX4070",
+    "Quantity": 150,
+    "Brand": "MSI"
+  },
+  {
+    "Id": 5,
+    "Name": "T248",
+    "Quantity": 90,
+    "Brand": "Thrustmaster"
+  },
+  {
+    "Id": 3,
+    "Name": "PS5",
+    "Quantity": 23,
+    "Brand": "Sony"
+  },
+  {
+    "Id": 8,
+    "Name": "Rival3",
+    "Quantity": 1500,
+    "Brand": "SteelSeries"
+  }
+]
